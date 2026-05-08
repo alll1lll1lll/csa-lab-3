@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Страница-1" id="5lXeGck73o0g1I51ajkK">
-    <mxGraphModel dx="3041" dy="1420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3147" dy="1775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -606,6 +606,18 @@
         </mxCell>
         <mxCell id="jEGAU5lpI0iEoRMDVADk-390" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="flags" vertex="1">
           <mxGeometry height="30" width="60" x="873" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="jEGAU5lpI0iEoRMDVADk-391" edge="1" parent="1" source="jEGAU5lpI0iEoRMDVADk-331" style="endArrow=classic;html=1;rounded=0;exitX=1.019;exitY=0.179;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="jEGAU5lpI0iEoRMDVADk-345" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1440" y="750" as="sourcePoint" />
+            <mxPoint x="1490" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jEGAU5lpI0iEoRMDVADk-393" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PC+4" vertex="1">
+          <mxGeometry height="30" width="60" x="1450" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="jEGAU5lpI0iEoRMDVADk-395" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="alu_out" vertex="1">
+          <mxGeometry height="30" width="60" x="1480" y="870" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
